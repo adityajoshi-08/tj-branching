@@ -1,0 +1,12 @@
+{
+  "id": "8e5050a1-8585-4c41-92f4-70ce915c678b",
+  "isPlugin": true,
+  "kind": "supabase",
+  "options": {
+    "development": {},
+    "production": {},
+    "staging": {}
+  },
+  "pluginKind": "supabase",
+  "type": "default"
+}
